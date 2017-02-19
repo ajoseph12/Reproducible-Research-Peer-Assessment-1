@@ -2,7 +2,7 @@
 title: "Reproducible Research: Peer Assessment 1"
 author: "Allwyn Joseph"
 date: "2/19/2017"
-output: html_document
+output: md_document
 ---
 ## Loading and preprocessing the data
 
